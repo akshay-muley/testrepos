@@ -8,7 +8,7 @@ namespace TestProjectForGitHub
 {
     public class Class1
     {
-        //
-        //
+        //C
+        //C
     }
 }
