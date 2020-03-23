@@ -1,0 +1,6 @@
+C:\Console Code\TestProjectForGitHub\TestProjectForGitHub\bin\Debug\TestProjectForGitHub.dll
+C:\Console Code\TestProjectForGitHub\TestProjectForGitHub\bin\Debug\TestProjectForGitHub.pdb
+C:\Console Code\TestProjectForGitHub\TestProjectForGitHub\obj\Debug\TestProjectForGitHub.csprojAssemblyReference.cache
+C:\Console Code\TestProjectForGitHub\TestProjectForGitHub\obj\Debug\TestProjectForGitHub.csproj.CoreCompileInputs.cache
+C:\Console Code\TestProjectForGitHub\TestProjectForGitHub\obj\Debug\TestProjectForGitHub.dll
+C:\Console Code\TestProjectForGitHub\TestProjectForGitHub\obj\Debug\TestProjectForGitHub.pdb
